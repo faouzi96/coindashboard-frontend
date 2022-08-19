@@ -1,0 +1,907 @@
+{
+  "api_coins_bitcoin_marketdata": {
+    "name": "Bitcoin",
+    "symbol": "btc",
+    "current_quote": {
+      "price": 24073.4,
+      "deltas": [
+        {
+          "interval": "ONE_HOUR",
+          "pct_change": 0.086318,
+          "nominal_change": 24131.6
+        },
+        {
+          "interval": "ONE_DAY",
+          "pct_change": 0.036318,
+          "nominal_change": 24144.6
+        },
+        {
+          "interval": "SEVEN_DAY",
+          "pct_change": 0.036318,
+          "nominal_change": 24144.6
+        }
+      ],
+      "market_cap": 460513164207,
+      "daily_volume": 27508459604,
+      "last_update_timestamp": 1660598250101
+    }
+  },
+
+  "api_coins_bitcoin_chart": [
+    {
+      "timestamp": 1659398400000,
+      "price": 23333.749243312184
+    },
+    {
+      "timestamp": 1659484800000,
+      "price": 23053.846847482677
+    },
+    {
+      "timestamp": 1659571200000,
+      "price": 22860.42098438317
+    },
+    {
+      "timestamp": 1659657600000,
+      "price": 22678.363633874185
+    },
+    {
+      "timestamp": 1659744000000,
+      "price": 23225.036201942938
+    },
+    {
+      "timestamp": 1659830400000,
+      "price": 22984.57953144855
+    },
+    {
+      "timestamp": 1659916800000,
+      "price": 23197.603469525384
+    },
+    {
+      "timestamp": 1660003200000,
+      "price": 23823.679442453606
+    },
+    {
+      "timestamp": 1660089600000,
+      "price": 23203.680696781623
+    },
+    {
+      "timestamp": 1660176000000,
+      "price": 23948.829553271633
+    },
+    {
+      "timestamp": 1660262400000,
+      "price": 23948.75170368143
+    },
+    {
+      "timestamp": 1660348800000,
+      "price": 24411.379871522615
+    },
+    {
+      "timestamp": 1660435200000,
+      "price": 24433.653747243658
+    },
+    {
+      "timestamp": 1660521600000,
+      "price": 24312.541424891562
+    },
+    {
+      "timestamp": 1660593695000,
+      "price": 24040.452576597032
+    }
+  ],
+
+  "api_coins_bitcoin": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+    "genesis_date": 1233681305000,
+    "is_token": false,
+    "contract_address": "address...",
+    "links": [
+      {
+        "title": "Official Website",
+        "url": "https://bitcoin.org/en/"
+      },
+      {
+        "title": "Github project",
+        "url": "https://github.com/bitcoin/bitcoin.git"
+      }
+    ],
+    "description": "Bitcoin, often described as a cryptocurrency, a virtual currency or a digital currency - is a type of money that is completely virtual. It's like an online version of cash. You can use it to buy products and services, but not many shops accept Bitcoin yet and some countries have banned it altogether."
+  },
+
+  "api_coins": [
+    {
+      "name": "Bitcoin1",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Binance Coin",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Lido Staked Ether",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Decentraland",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin4",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin5",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin6",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin7",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin8",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin9",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin10",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin11",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin12",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin13",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin14",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin15",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin16",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin17",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin18",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin19",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin20",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin21",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin22",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    },
+    {
+      "name": "Bitcoin23",
+      "symbol": "BTC",
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "current_quote": {
+        "price": 24073.4,
+        "deltas": [
+          {
+            "interval": "ONE_HOUR",
+            "pct_change": 0.086318,
+            "nominal_change": 24131.6
+          },
+          {
+            "interval": "ONE_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "SEVEN_DAY",
+            "pct_change": 0.036318,
+            "nominal_change": 24144.6
+          },
+          {
+            "interval": "THIRTY_DAY",
+            "pct_change": 12.552752825351243,
+            "nominal_change": 2613.986893569027
+          }
+        ],
+        "market_cap": 460513164207,
+        "daily_volume": 27508459604,
+        "last_update_timestamp": 1660598250101
+      }
+    }
+  ]
+}
